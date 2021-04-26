@@ -1,0 +1,7 @@
+.let p:first-letter {
+  text-transform: uppercase;
+}
+
+.let p:not(first-letter) {
+  text-transform: lowercase;
+}
