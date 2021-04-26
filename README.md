@@ -5,5 +5,6 @@
 App que permite ver el clima actual y de los siguientes 6 días
 
 ## Api
-Para utilizar esta Api es necesario que se registre para obtener una Key
 https://openweathermap.org/api
+Para utilizar esta Api es necesario que se registre para obtener una Key
+
